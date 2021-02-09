@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ### 🛠 &nbsp;Tech Stack
 
-![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp)&nbsp;
+![C#](https://img.shields.io/badge/-C%20Sharp-05122A?style=flat&logo=c-sharp&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=white)&nbsp;
+![Flutter](hhttps://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=microsoft-sql-server)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
