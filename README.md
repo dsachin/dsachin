@@ -4,8 +4,8 @@
 - 🔭 I’m currently working on a .net project
 - 🌱 I’m currently learning react
 - 👯 I’m looking to collaborate on games and web-applications
-- 💬 Ask me about tech,anime,series
-- 📄 &nbsp;Please have a look at my [Linked In](https://www.linkedin.com/in/sachindiwate/) for more details about me. I'm open to feedback and suggestions!
+- 💬 Ask me about tech,anime and series
+- 📄 &nbsp;Please have a look at my [Linked In](https://www.linkedin.com/in/sachindiwate/) profile for more details about me. I'm open to feedback and suggestions!
 
 
 
@@ -42,7 +42,7 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=007ACC)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-
+<!--
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -51,5 +51,5 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dsachin&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
+-->
 
